@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyBikes_1830508.Bus.Bicycle" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAwgAABAFAIAgAYAJABAAAQCNAEpCgQAIYAA=</HashCode>
+      <FileName>Bus\Bicycle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Date" />
+      <Property Name="FileHandler" />
+      <Property Name="LoginClass" />
+      <Property Name="EnumRimType" />
+      <Property Name="EnumModelType" />
+      <Property Name="EnumColor" />
+      <Property Name="EnumSusType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MyBikes_1830508.Bus.Date" Collapsed="true">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAJAAAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Bus\Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikes_1830508.Bus.FileHandler" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>Bus\FileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikes_1830508.LoginClass" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAEAAAAAAAAAAAAAAAMAAAAAgEAABA=</HashCode>
+      <FileName>Bus\LoginClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyBikes_1830508.Bus.EnumColor" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAACA=</HashCode>
+      <FileName>Bus\Bicycle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikes_1830508.Bus.EnumRimType" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAACA=</HashCode>
+      <FileName>Bus\Bicycle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikes_1830508.Bus.EnumSusType" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAAAAAAAAAAAAAAAAAAAgACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bus\Bicycle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikes_1830508.Bus.EnumModelType" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAACA=</HashCode>
+      <FileName>Bus\Bicycle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
